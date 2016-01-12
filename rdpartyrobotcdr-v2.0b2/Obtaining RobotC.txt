@@ -1,0 +1,5 @@
+RobotC 2.x can be downloaded from: http://www.robotc.net/download/nxt/
+
+/*
+ * $Id: Obtaining RobotC.txt 20 2009-12-08 22:59:13Z xander $
+ */
